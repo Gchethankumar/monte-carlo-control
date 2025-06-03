@@ -114,8 +114,9 @@ def mc_control(env, gamma=1.0, init_alpha=0.5, min_alpha=0.01, alpha_decay_ratio
 
 ## OUTPUT:
 
-![RL_5 1](https://github.com/user-attachments/assets/fadf3c58-ef53-4bb0-98ce-b5132996de56)
-![RL_5 2](https://github.com/user-attachments/assets/dbe77766-22d9-4cbf-a577-d17ceab0111c)
+
+![img1](https://github.com/user-attachments/assets/2b8d6d09-c8f1-49e7-8b45-108e4e748444)
+![img2](https://github.com/user-attachments/assets/7508665b-576f-4177-b459-0926daf6cb9f)
 
 
 ## RESULT:
